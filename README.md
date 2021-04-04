@@ -1,2 +1,2 @@
 # taskagitmakasoyunu
-taskagitmakasoyunu
+tas_kagit_makasoyunu
